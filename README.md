@@ -26,3 +26,18 @@ Curso: Convertirme en Data Scientist en 7 días
 
 🎓 Complementaré el aprendizaje de Python con este curso.
 Objetivo: Introducción rápida a los conceptos de ciencia de datos y herramientas básicas.
+
+🎯 Objetivo
+Este es el inicio de mi camino en el mundo de la programación, con la meta final de convertirme en MLOps. Durante estos 21 días, empezaré desde los fundamentos y avanzaré gradualmente, dedicando tiempo tanto a teoría como a práctica.
+
+📅 Plan de Estudio
+Lógica de Programación Básica
+Lógica de Programación Avanzada
+Curso de Python (16 días)
+Curso de Ciencia de Datos (7 días)
+Desarrollo Web (HTML, CSS, JavaScript)
+🕒 Horario Diario
+8 - 9 am: Desayuno
+10 am - 12 pm: Teoría
+12 pm - 2 pm: Práctica
+2 pm - 4 pm: Documentación del progreso en el repositorio
